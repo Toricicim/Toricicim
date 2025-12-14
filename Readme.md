@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">diinki's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">Toricicim's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
   Hello! I'm Umut or Toricicim a data scientist, statistician and a designer ✧ :) ✧ <br> I'm wired.
