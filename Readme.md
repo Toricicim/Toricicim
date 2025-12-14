@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczc3JtNGh0NnYzNmQzZmlnM3RlNG4yc3J5encyb3I3aDlmYmgybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KE5Wi6aSESsjVpO6vg/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">Toricicim's</a> github page <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczc3JtNGh0NnYzNmQzZmlnM3RlNG4yc3J5encyb3I3aDlmYmgybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KE5Wi6aSESsjVpO6vg/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-  Hello! I'm Umut or Toricicim a data scientist, statistician and a designer ✧ :) ✧ <br> I'm wired.
+  Hello! I'm Umut or Toricicim a data scientist, statistician and a designer ✧ ◕⩊◕ ✧ <br> I'm wired on my bones.
 </p>
 <h1> </h1>
 <br>
