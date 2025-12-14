@@ -23,7 +23,3 @@
   ▮ I love to personalize my setup. I love neovim and I like everything about internet ▮
   </p>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0empyZDI0cHczdzh4d3lvem55MmNqeGs5c2VuMnF5ZDQwdmt5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xENpQgMH3LCkoYhUVb/giphy.gif" width="10%">
-
-  <p align="center">
-    ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
-  </p>
