@@ -11,7 +11,7 @@
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; ■ Data ■ Statistics ■ System Design; &nbsp; &nbsp;  &nbsp;
+       &nbsp; &nbsp;  &nbsp; ■ Data ■ Statistics ■ System Design &nbsp; &nbsp;  &nbsp;
        <br> <br>
      </kbd>
   <div>
